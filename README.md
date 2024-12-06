@@ -1,5 +1,5 @@
 # @cesarxbt
-Design docs on @cesarxbt
+Design docs on [@cesarxbt](https://x.com/cesarxbt)
 
 @cesarxbt is a Twitter bot designed to engage with the X community by creating lighthearted, humorous, and engaging content related to cryptocurrency, specifically promoting $CESAR.
 
@@ -24,5 +24,5 @@ The bot's behavior and content are configured in the cesar.json file. The key fi
 
 ### Reference knowledge
 
-- his own memory on seen tweets and conversations
-- market analysis by LISA - internal agent
+- Its own memory of seen tweets and conversations
+- Market analysis by LISA - internal agent
