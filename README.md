@@ -19,7 +19,7 @@ The bot's behavior and content are configured in the cesar.json file. The key fi
 ### Tasks
 
 - Post to X every 3 hours
-- [TBD] reply to mentions
+- reply to mentions
 - [TBD] search for related tweets and comment
 
 ### Reference knowledge
